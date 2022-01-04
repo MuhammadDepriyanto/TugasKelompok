@@ -3,6 +3,10 @@
   <component name="DesignSurface">
     <option name="filePathToZoomLevelMap">
       <map>
+        <entry key="..\:/Dashboard/TugasKelompok/app/src/main/res/drawable/ic_vector.xml" value="0.16018518518518518" />
+        <entry key="..\:/Dashboard/TugasKelompok/app/src/main/res/layout/activity_dashboard.xml" value="0.25" />
+        <entry key="..\:/Dashboard/TugasKelompok/app/src/main/res/layout/activity_main.xml" value="0.1272644927536232" />
+        <entry key="..\:/Dashboard/TugasKelompok/app/src/main/res/layout/activity_register.xml" value="0.1272644927536232" />
         <entry key="..\:/DesainLogin/app/src/main/res/drawable/button.xml" value="0.16018518518518518" />
         <entry key="..\:/DesainLogin/app/src/main/res/drawable/form.xml" value="0.6178571428571429" />
         <entry key="..\:/DesainLogin/app/src/main/res/layout/activity_main.xml" value="0.25" />
